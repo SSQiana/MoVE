@@ -1,6 +1,6 @@
 # Mitigating Dynamic Graph Distribution Shifts via Mixture of Variational Experts
 
-This repository contains the official implementation of the paper "Mitigating Dynamic Graph Distribution Shifts via Mixture of Variational Experts".(WWW 2026)
+This repository contains the official implementation of the paper "Mitigating Dynamic Graph Distribution Shifts via Mixture of Variational Experts".
 
 ## Requirements
 
