@@ -20,8 +20,7 @@ pip install -r requirements.txt
 ## Datasets
 
 MoVE supports dynamic link prediction on both discrete-time and continuous-time dynamic graphs.  
-All datasets can be downloaded here:  
-https://1drv.ms/u/c/1b2f69874f634cd8/IQBXefaMKTWIRpRCbaCs9byhAcH5yc1bYAgkN-7RyrfPZTE?e=RbBokn
+All datasets can be downloaded [here](https://1drv.ms/f/c/1b2f69874f634cd8/IgBtJle5scVkRbkSyoXkTEaoAe4ErkoYcWmta_UZMVLQChk?e=v7WSGZ)
 
 Once downloaded, please organize the datasets into the following directories based on their type:
 
